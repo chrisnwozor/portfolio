@@ -121,15 +121,16 @@ export const serviceData = [
   },
   {
     icon: assets.ui_icon,
-    title: "UI/UX design",
+    title: "MongoDb & Express",
     description:
-      "UI/UX design focuses on creating a seamless user experience...",
+      "MongoDB is a NoSQL database that uses a document-oriented data model...",
     link: "",
   },
   {
     icon: assets.graphics_icon,
-    title: "Graphics design",
-    description: "Creative design solutions to enhance visual communication...",
+    title: "Next Js",
+    description:
+      "Next.js is a React framework that enables server-side rendering and static site generation...",
     link: "",
   },
 ];
